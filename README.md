@@ -1,6 +1,9 @@
-# About me
-3D Artist too.
-- 📋 [Portfolio](https://filippo_sabbadin.artstation.com/)
+# About me 🐷
+- 📚 University student
+- 🗿 3D Artist
+- 🎮 Working on a game
+- 🕹 Fighting games player
+- 🍤 Shrimp enjoyer
 
 ## My skills:
 [![My Skills](https://skillicons.dev/icons?i=blender,godot,cpp,py,git,html,css,vscode,notion&theme=dark)](https://skillicons.dev)
