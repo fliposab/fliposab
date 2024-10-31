@@ -1,6 +1,9 @@
+# About me
 3D Artist too.
 - 📋 [Portfolio](https://filippo_sabbadin.artstation.com/)
-- Blender and Godot enthusiast
+
+## My skills:
+[![My Skills](https://skillicons.dev/icons?i=blender,godot,cpp,py,git,html,css,vscode,notion&theme=dark)](https://skillicons.dev)
 <!--
 **fliposab/fliposab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
