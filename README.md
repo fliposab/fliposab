@@ -2,8 +2,6 @@
 - 📚 University student
 - 🖌️ 3D Artist [[Portfolio](https://filippo_sabbadin.artstation.com)]
 - 🎮 Working on a game
-- 🕹 Fighting games player
-- 🍤 Shrimp enjoyer
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=blender,godot,cpp,py,qt,git,github,html,css,vscode,notion&theme=dark)](https://skillicons.dev)
