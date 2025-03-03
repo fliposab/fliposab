@@ -1,6 +1,6 @@
 # About me
 - 📚 University student
-- 🖌️ 3D Artist [[Portfolio](https://filippo_sabbadin.artstation.com)]
+- 🖌️ 3D Artist - [Portfolio](https://filippo_sabbadin.artstation.com)
 - 🎮 Working on a game
 
 ## My skills
